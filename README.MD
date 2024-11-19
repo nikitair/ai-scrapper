@@ -1,1 +1,1 @@
-# ai_scrapper
+# ai-scrapper
